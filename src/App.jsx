@@ -26,6 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">I just cut out this text</p>
+      <p className="read-the-docs">copied a p tag</p>
     </>
   );
 }
